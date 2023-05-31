@@ -28,10 +28,10 @@ Self Hosted API integration
 Life Text Support - text interactions, dat or a detection, QR code scanning with all saved images and videos
 
 ## Roadmap
-○ Figma Prototype
+
+	○ Figma Prototype
 
 	○ Wireframe
-	
 	
 	○ Splash / Introduction
 	
@@ -45,7 +45,7 @@ Life Text Support - text interactions, dat or a detection, QR code scanning with
 	
 	○ Edit Category / Emoji Picker
 	
-○ xCode Prototype
+### xCode Prototype
 	
 	○ Splash Screen / Introduction
 	
@@ -57,7 +57,7 @@ Life Text Support - text interactions, dat or a detection, QR code scanning with
 	
 	○ Share Sheet
 	
-○ Future Update
+### Future Features
 	
 	○ Export Conversations
 	
@@ -89,7 +89,7 @@ Life Text Support - text interactions, dat or a detection, QR code scanning with
 	
 	○ Themes
 	
-○ Other To Do 
+### Other To Do 
 	
 	○ Buy Domain (Opys.app $14/yr)
 	
